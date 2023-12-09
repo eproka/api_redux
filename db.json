@@ -1,0 +1,105 @@
+{
+  "users": [
+    {
+      "email": "proka.egor@gmail.com",
+      "password": "12345ABCa",
+      "date": 1700913856232,
+      "id": 1
+    },
+    {
+      "email": "proka.egor@gmail.com",
+      "password": "12345ABCa",
+      "date": 1702128647278,
+      "id": 2
+    },
+    {
+      "email": "proka.egor329@gmail.com",
+      "password": "10041425vikaA",
+      "date": 1702128788454,
+      "id": 3
+    },
+    {
+      "email": "proka.egor329@gmail.com",
+      "password": "10041425vikaA",
+      "date": 1702135000239,
+      "id": 4
+    },
+    {
+      "email": "proka.egor329@gmail.com",
+      "password": "10041425vikaA",
+      "date": 1702135026285,
+      "id": 5
+    },
+    {
+      "email": "proka.egor329@gmail.com",
+      "password": "10041425vikaA",
+      "date": 1702135514358,
+      "id": 6
+    },
+    {
+      "email": "proka.egor329@gmail.com",
+      "password": "10041425vikaA",
+      "date": 1702135525810,
+      "id": 7
+    },
+    {
+      "email": "proka.egor329@gmail.com",
+      "password": "10041425vikaA",
+      "date": 1702135653406,
+      "id": 8
+    },
+    {
+      "email": "proka.egor329@gmail.com",
+      "password": "10041425vikaA",
+      "date": 1702137117437,
+      "id": 9
+    },
+    {
+      "email": "proka.egor329@gmail.com",
+      "password": "10041425vikaA",
+      "date": 1702137362567,
+      "id": 10
+    },
+    {
+      "email": "proka.egor329@gmail.com",
+      "password": "10041425vikaA",
+      "date": 1702137846425,
+      "id": 11
+    },
+    {
+      "email": "proka.egor3291@gmail.com",
+      "password": "10041425vikaA",
+      "date": 1702138891774,
+      "id": 12
+    },
+    {
+      "email": "proka.egor329@gmail.com",
+      "password": "10041425vikaA",
+      "date": 1702143064273,
+      "id": 13
+    }
+  ],
+  "notes": [
+    {
+      "id": 4,
+      "authorId": 1,
+      "title": "Homework",
+      "text": "do hometask",
+      "createdAt": "2023-11-26T16:36:06.424Z"
+    },
+    {
+      "id": 5,
+      "authorId": 3,
+      "title": "123",
+      "text": "123123131",
+      "createdAt": "2023-12-09T17:52:06.780Z"
+    },
+    {
+      "authorId": 1,
+      "title": "123",
+      "text": "12313123123",
+      "createdAt": "2023-12-09T18:08:28.540Z",
+      "id": 6
+    }
+  ]
+}
